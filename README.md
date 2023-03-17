@@ -189,6 +189,8 @@ All notes from my research on theory of programming languages λ, compilers, int
 
 ## Twitch/YouTube Channels
 
+- [ACM SIGPLAN](https://www.youtube.com/@acmsigplan)
+
 - [gilmi](https://www.youtube.com/@gilmi)
 - [Michael Gilliland](https://www.youtube.com/c/MichaelGillilandmjgpy3/playlists)
 - [Bitwise](https://youtu.be/0arFPIQatCU)
