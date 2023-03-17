@@ -237,6 +237,6 @@
 
 ## License
 
-[MIT](/license) © [veyselusta](https://github.com/veyselusta)
+[MIT](https://github.com/veyselusta/programming-language-research/blob/main/LICENSE) © [veyselusta](https://github.com/veyselusta)
 
 </samp>
