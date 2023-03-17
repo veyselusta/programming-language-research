@@ -18,7 +18,7 @@ All notes from my research on theory of programming languages λ, compilers, int
 - [Logic](#logic)
   * [General](#general)
   * [YouTube](#YouTube)
-- [Formal Method](#formal methods)
+- [Formal Methods](#formalmethods)
 - [Twitch/YouTube](#twitch/youtube)
 - [Talks](#talks)
 - [Communities](#communities)
