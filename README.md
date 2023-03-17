@@ -1,7 +1,13 @@
-
 <samp>
 
+# Programming Language Research
+All notes from my research on theory of programming languages λ, compilers, interpreters, functional programming, formal methods, logic etc.
+
+
+
 ## Table of Content
+
+
 
 - [General](#general)
   * [Websites](#websites)
@@ -21,7 +27,7 @@
 
 ## General
 
-##### Websites
+#### Websites
 
 - [Lambda The Ultimate](http://lambda-the-ultimate.org/) - Lambda The Ultimate includes many members who study programming languages daily for years, either in academia or in industry settings
 - [Classic Papers in Programming Languages and Logic](https://www.cs.cmu.edu/~crary/819-f09/)
@@ -38,7 +44,7 @@
 - [Program by Design](https://programbydesign.org/)
 - [Supplemental Materials for HWTP](https://felleisen.org/matthias/htdp-plus.html)
 
-##### Videos
+#### Videos
 
 - [Common Lisp Project 1: Turing Machine](https://youtu.be/77tJ6yaszBY) - In part one of this project the initial language of a turing machine is laid out and VERY simple functions are written to do basic math
 - [Thinking with types (Chapter1: The Algebra Behind Types)](https://youtu.be/1vXdNNSmvJw) - He is looking at the book by Sandy Maguire “Thinking with types”
@@ -116,7 +122,7 @@
 
 ## Compilers/Interpreters
 
-##### Lectures
+#### Lectures
 
 - [Principles of Compiler Design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/s_schedule.html) [[Lecture Videos]](https://www.bilibili.com/video/BV1qt41167uU?p=1)
 - [Indiana University Compiler Course ](https://www.bilibili.com/video/BV1qt41167uU?p=1)[[Lecture Videos]](https://iu.mediaspace.kaltura.com/media/Compiler+Course/1_hwlujpzd)
@@ -129,7 +135,7 @@
 - [Introduction to Compiler Construction](https://www.students.cs.ubc.ca/~cs-411/2020w2/index.html)
 - [Programming Language Zoo ](http://plzoo.andrej.com/)[[Github]](https://github.com/andrejbauer/plzoo)
 
-##### YouTube
+#### YouTube
 
 - [Building Strema: a compiler targeting JavaScript in Haskell](https://youtu.be/khAKcFgziWU) - Live coding a compiler for a custom type inferred programming language with ADTs and pattern matching called Strema, and targeting JavaScript.
 - [Writing a compiler. Term reduction via substitution](https://youtu.be/qRHJ4qcFbNE) - This is the first video in a series focused on implementing a compiler backend for a small functional language which is a variation of the untyped λ-calculus.
@@ -153,7 +159,7 @@
 
 ## Logic
 
-##### General
+#### General
 
 - [Introduction to Logic](http://intrologic.stanford.edu/stanford/index.php) - Stanford University course on logic fundamentals
 - [Logic Matters](https://www.logicmatters.net/)
@@ -163,7 +169,7 @@
 - [The Xena Project](https://www.ma.imperial.ac.uk/~buzzard/xena/)
 - [Linear Logic in nLab](https://ncatlab.org/nlab/show/linear+logic)
 
-##### YouTube
+#### YouTube
 
 - [Introduction/Logic of propositions and predicates](https://youtu.be/V49i_LM8B0E)
 - [Introduction to Logic for Computer Science](https://youtu.be/OER3ziGPSMw)
