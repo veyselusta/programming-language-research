@@ -71,6 +71,7 @@ All notes from my research on theory of programming languages λ, compilers, int
 - [Resources for Programming Language Research](http://www.cs.cmu.edu/~mleone/language-research.html) - A collection of information and resources for research in programming language theory, design, implementation, and related areas
 - [Programming Language Journals, Books, and Publishers](http://www.cs.cmu.edu/~mleone/language/publications.html) - A collection of materials related to programming languages
 - [List of books for Theory of Programming Languages](https://freecomputerbooks.com/langTheoryBooks.html) - List of books for programming languages theory
+- [Practical Foundations for Programming Languages](http://www.cs.cmu.edu/~rwh/pfpl.html)
 - [Software Foundations - Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/toc.html) - This electronic book is a survey of basic concepts in the mathematical study of programs and programming languages
 - [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) - This text provides a comprehensive introduction both to type systems in computer science and to the basic theory of programming languages.
 - [Concepts, Techniques, and Models of Computer Programming](https://www.info.ucl.ac.be/~pvr/book.html) - The book is organized around programming concepts. It starts with a small language, Mozart, containing just a few concepts.
