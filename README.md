@@ -35,6 +35,7 @@ All notes from my research on theory of programming languages λ, compilers, int
 - [The Study of Programming Languages](https://cs.lmu.edu/~ray/notes/plstudy/) - Ray Total's this course explains you how to study programming languages
 - [Programming Languages Reading List](https://proglangdesign.net/wiki/reading-list) This is a list of valuable resources for programming language design and implementation.
 - [Programming Language Theory Texts](https://web.archive.org/web/20141002195305/http://www.cs.uu.nl:80/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) This is a collection of programming language theory texts and resources, all of which are freely available over the Internet.
+- [OPLSS](https://www.cs.uoregon.edu/research/summerschool/summer23/)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - This is a collection of modern resources on various undergrad level computer science topics, for someone with an interest in theory.
 - [Type Theory](https://functionalcs.github.io/curriculum/typetheory.html) - Workshop on type theory
 - [Type Theory Resources](https://github.com/jozefg/learn-tt) - A Github repository for a collection of resources for type theory
@@ -191,7 +192,6 @@ All notes from my research on theory of programming languages λ, compilers, int
 ## Twitch/YouTube Channels
 
 - [ACM SIGPLAN](https://www.youtube.com/@acmsigplan)
-
 - [gilmi](https://www.youtube.com/@gilmi)
 - [Michael Gilliland](https://www.youtube.com/c/MichaelGillilandmjgpy3/playlists)
 - [Bitwise](https://youtu.be/0arFPIQatCU)

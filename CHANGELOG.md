@@ -1,3 +1,7 @@
+### 19/03/2023
+
+Add 'The Oregon Programming Languages Summer School (OPLSS) '
+
 ### 17/03/2023
 
 Add 'ACM SIGPLAN'
