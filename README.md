@@ -87,7 +87,7 @@ All notes from my research on theory of programming languages λ, compilers, int
 
 ## Courses/Materials
 
-- [CS520 - Theories Of Programming Languages](https://github.com/hongseok-yang/graduatePL20) [[Lecture Videos]](https://www.youtube.com/playlist?list=PLvV9DPeJV9xx0NegrG4gNu8WXSXibDICu)
+- [CS520 - Theories Of Programming Languages](https://github.com/hongseok-yang/graduatePL24) [[Lecture Videos]](https://www.youtube.com/playlist?list=PLvV9DPeJV9xx0NegrG4gNu8WXSXibDICu)
 - [CSE340 - Principles of Programming Languages](https://adamdoupe.com/teaching/classes/cse340-principles-of-programming-languages-s16/) [[Lecture Videos]](https://www.youtube.com/playlist?list=PLK06XT3hFPzilgF1mi_hHqcXO1-o_8OEe) 
 - [CS 3520/6520 - Programming Languages](https://my.eng.utah.edu/~cs3520/f20/schedule.html) [[Lecture Videos]](https://www.youtube.com/@matthewflatt489/playlists)
 - [301 - Organization of Programming Languages](http://jeapostrophe.github.io/courses/2020/summer/301/course/) [[Lecture Videos]](https://www.youtube.com/watch?v=j2pYeKjq_60&list=PLB1enDd0fV0i5SWGe-A1YjmD8MmlGavIj&ab_channel=JayMcCarthy)
@@ -108,9 +108,9 @@ All notes from my research on theory of programming languages λ, compilers, int
 - [CS019 - Accelerated Introduction to Computer Science](https://cs.brown.edu/courses/cs019/2018/index.html)
 - [Programming Languages Course given by DCC-UFMG](https://hanielb.github.io/2021.2-lp/)
 - [Theory of Programming Languages](http://staff.ustc.edu.cn/~yuzhang/tpl/2020s/index.html#reading)
-- [CPSC 311 Definition of Programming Languages: "Lambda Bound"]()
+- [CPSC 311 Definition of Programming Languages: "Lambda Bound"](https://www.students.cs.ubc.ca/~cs-311/current/syllabus.html#course-materials)
 - [Fundamentals 1](https://course.ccs.neu.edu/cs2500f16/index.html) 
-- [Fundamentals 2](https://course.ccs.neu.edu/cs2510/) 
+- [Fundamentals 2](https://course.khoury.northeastern.edu/cs2510h/) 
 - [Matthias Felleisen - Principles of Programming Languages](https://felleisen.org/matthias/4400-s20/lectures.html)
 - [Matthias Felleisen - Intensive Principles of Programming Languages](https://felleisen.org/matthias/7400-s14/Problem_Sets.html)
 - [History of Programming Languages](https://felleisen.org/matthias/7480-s17/index.html)
@@ -214,8 +214,8 @@ All notes from my research on theory of programming languages λ, compilers, int
 - [vivalambda](https://www.twitch.tv/vivalambda)
 
 ## Communities
-- [MOOC nerds](https://discord.gg/CCc8mN7V) - Discord channel for functional computer science series
-- [Programming Languages](https://discord.gg/GBQyqvQK) - There are plenty of programming languages created by community members 
+- [MOOC nerds](https://discord.gg/gUW47P9u) - Discord channel for functional computer science series
+- [Programming Languages](https://discord.gg/97wsePqt) - There are plenty of programming languages created by community members 
 - [Multiprocess community](https://discord.gg/kYxxjSZQ) - The core of the community is around software internals
 - [Declarative Programming Streams](https://discord.gg/2mPtw8Pn) - A collection of streamers
 - [Haskell Twitch](https://discord.gg/gc7QWtP7)
